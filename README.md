@@ -15,5 +15,5 @@ Graceful termination of background jobs on exit<br/>
 To build and run file:<br/>
 Bash
 
-gcc --std=gnu99 -Wall -Wextra -o smallsh smallsh.c
+gcc --std=gnu99 -Wall -Wextra -o smallsh smallsh.c<br/>
 ./smallsh
